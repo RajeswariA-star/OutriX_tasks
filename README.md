@@ -4,7 +4,7 @@ This repository contains the following completed tasks:
 
 1. House Price Prediction using Linear Regression
 2. Iris Flower Classification using Logistic Regression, KNN, and Decision Tree
-3. Diabetes Prediction using Logistic Regression 
+3. Diabetes Prediction using Medical Data Classification
 
 Tools & Libraries:
 - Python
